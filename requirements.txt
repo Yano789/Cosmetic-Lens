@@ -1,0 +1,14 @@
+beautifulsoup4>=4.12.3
+faiss-cpu>=1.8.0
+fastapi>=0.116.0
+httpx>=0.28.0
+numpy>=1.26.4
+pandas>=2.2.2
+Pillow>=10.4.0
+python-dotenv>=1.0.1
+pytest>=8.3.2
+requests>=2.32.3
+streamlit>=1.39.0
+torch>=2.4.0
+transformers>=4.44.2
+uvicorn[standard]>=0.30.6

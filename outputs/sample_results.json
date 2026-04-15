@@ -1,0 +1,11 @@
+{
+	"query": "hydrating serum",
+	"results": [
+		{
+			"product_id": "placeholder-001",
+			"name": "Sample Hydrating Serum",
+			"score": 0.98,
+			"offers": []
+		}
+	]
+}

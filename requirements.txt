@@ -9,6 +9,8 @@ python-dotenv>=1.0.1
 pytest>=8.3.2
 requests>=2.32.3
 streamlit>=1.39.0
-torch>=2.4.0
+torch==2.2.2
 transformers>=4.44.2
 uvicorn[standard]>=0.30.6
+tqdm
+git+https://github.com/openai/CLIP.git
